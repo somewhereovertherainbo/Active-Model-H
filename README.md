@@ -4,5 +4,5 @@ AMH is simulated using Pseudo-spectral method
 The equations of motion for Active Model H are:
 
 $$
-\nabla
+\nabla\cdot\dot\phi = -\nabla\cdot(J+J^\Lambda)
 $$
