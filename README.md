@@ -90,7 +90,27 @@ $$
 
 The code for simulation and the results:
 
+```
+import numpy as np
+import sys, time
+import matplotlib.pyplot as plt
+fft2  = np.fft.fft2
+ifft2 = np.fft.ifft2
+randn = np.random.randn
 
+import scipy.fft
+fft2 = scipy.fft.fft2
+ifft2 = scipy.fft.ifft2
+
+
+from matplotlib import rc
+rc('text', usetex=True)
+fSA=20
+font = {'family' : 'normal',
+         'weight' : 'bold',
+         'size'   : 24}  
+rc('font', **font)
+```
 
 
 
