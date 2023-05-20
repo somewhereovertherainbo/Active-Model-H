@@ -12,7 +12,7 @@ $J^\Lambda$ is the current arising from 'Thermal Noise'
 J is the current arising from Stresses (forces) created in the fluid due to the concentration gradients in different kinds of substances that make up the fluid.
 
 
-
+$$
 \dot{\phi} &=-\boldsymbol{\nabla}\cdot \left(\boldsymbol{J}^\phi + \bm J^{\bm v}
 +\boldsymbol{J}^{\Lambda}\right).
 % +\boldsymbol{v}\cdot\boldsymbol{\nabla}\phi
@@ -32,3 +32,4 @@ So, the final dynamical equation in the variable $\phi$ is
 \begin{gather}
     \dot{\phi} =-\nabla^2 \left[a\phi + b \phi^3 - \kappa \nabla^2 \phi \right] - \mathbf{v}\cdot\nabla\phi - \sqrt{2D^{\phi}M^{\phi}}\nabla\cdot\Lambda
 \end{gather}
+$$
