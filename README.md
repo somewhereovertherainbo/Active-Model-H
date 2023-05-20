@@ -7,6 +7,6 @@ $$
 \dot\phi = -\nabla\cdot(J+J^\Lambda)
 $$
 
-$J^\Landa$ is the current arising from 'Thermal Noise'
+$J^\Lambda$ is the current arising from 'Thermal Noise'
 
 
