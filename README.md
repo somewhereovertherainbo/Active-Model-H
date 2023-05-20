@@ -9,4 +9,4 @@ $$
 
 $J^\Lambda$ is the current arising from 'Thermal Noise'
 
-
+J is the current arising from Stresses (forces) created in the fluid due to concentration gradients in different kinds of substances that make up the fluid.
